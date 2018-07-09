@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "CLAS 102 - Ancient Roman Literature and Society - Fall 2018"
+title:       "LATN 101 - Introduction to Latin 1 - Fall 2018"
 keywords:    "Classics, Latin, Rome, Roman"
-description: "A course website for CLAS 102, Ancient Roman Literature and Society, in Fall 2018 at the College of the Holy Cross."
+description: "A course website for LATN 101, Introduction to Latin 1, in Fall 2018 at the College of the Holy Cross."
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"

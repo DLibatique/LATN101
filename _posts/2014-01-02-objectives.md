@@ -1,8 +1,7 @@
 ---
 title: "Objectives"
-bg: blue
+bg: '#f44283'
 color: white
-style: center
 fa-icon: check-square-o
 ---
 

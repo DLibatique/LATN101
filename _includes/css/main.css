@@ -82,6 +82,28 @@ hr {
     margin-top: 0px;
 }
 
+.container p.hanging {
+  font-size: 17px;
+  padding: 0 0 0 10% ;
+  text-indent: -5%;
+}
+
+.container-mod {
+  word-wrap: break-word;
+  font-size: 17px;
+  margin: 0;
+}
+
+.container-mod p {
+  margin: 0;
+  padding: 0 0 0 10%;
+  text-indent: -5%;
+}
+
+.container-mod h3 {
+  margin: 20px 0;
+}
+
 /* keep embedded videos fluid! */
 .icontain {
   position: relative;
